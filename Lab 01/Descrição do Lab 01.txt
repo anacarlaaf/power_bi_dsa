@@ -1,6 +1,6 @@
 Nesse laboratório, trabalhei com com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo.
 
-- Perguntas de negócio respondidas.
+- Perguntas de negócio respondidas:
 
     - Qual o valor total vendido?
     - Quantas vendas foram realizadas por categoria de produto?
